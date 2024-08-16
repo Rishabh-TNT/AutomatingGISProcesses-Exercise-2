@@ -1,6 +1,8 @@
 .virtualenv/
 .venv/
 
+data/
+
 docs/build/
 docs/_build/
 
